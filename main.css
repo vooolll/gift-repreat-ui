@@ -1,0 +1,30 @@
+.pure-g {
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.gift-table {
+  width: 1170px;
+}
+
+@media (min-width: 768px) {
+  .pure-g {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .pure-g {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .pure-g {
+    width: 1170px;
+  }
+}
+
+.gift-table-margin-botton {
+  margin-bottom: 400px;
+}
